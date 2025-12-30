@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushboo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="coding" width="400"src="https://miro.medium.com/1*uYkZXXw-QL-N_1gVndPH9A.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo9907&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo9907" /> </p>
